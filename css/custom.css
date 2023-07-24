@@ -1,0 +1,16 @@
+.icon-small {
+  font-size: 24px;
+}
+
+.full-width {
+  display:inline-block;
+  width: 100%;
+}
+
+.align-left {
+  text-align: left
+}
+
+.align-right {
+  text-align: right
+}
